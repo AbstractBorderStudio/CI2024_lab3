@@ -11,6 +11,6 @@
 
 ## 1.2. The problem
 
-> *Given a `n2-1 puzzle`, starting from a shuffled position, go back to un-shuffled solution.*
+> *Given a `n2-1 puzzle`, starting from a shuffled position, go back to un-shuffled solution with the `shortest path`.*
 
 ![Problem Example](imgs/problem_example.png)
